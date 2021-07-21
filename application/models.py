@@ -21,3 +21,5 @@ class User(db.Model):
 #     db.Column('work_item_id', db.Integer, db.ForeignKey('work_item.id'), primary_key=True),
 #     db.Column('user_id', db.Integer, db.ForeignKey('user.id'), primary_key=True)
 # )
+
+# Using the above sample write the DB models here
