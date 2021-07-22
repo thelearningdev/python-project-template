@@ -1,14 +1,9 @@
----- Remove this -----
-
-# Python-project-template
-
-Use this repo as a template to create your own python app
-
----- Remove this until here -----
-
 # Project Name
 
 Write a small description of your project
+
+
+> This project was built as a part ot [PythonToProject Bootcamp by TheLearningDev](https://bhavaniravi.gumroad.com/l/LaFSj)
 
 ## Feature list
 
@@ -21,18 +16,11 @@ Write a small description of your project
 
 List all the APIs it's methods, request and response params
 
-1. API title
-
-```
-URL:
-Method : 
-Request: 
-Response:
-Error:
-```
+> Add the API table here
 
 ## DB Design Diagram
 
+> Add the DB design table here
 
 ## Coding Issues and Learning
 
