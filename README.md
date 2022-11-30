@@ -3,7 +3,7 @@
 Write a small description of your project
 
 
-> This project was built as a part ot [PythonToProject Bootcamp by TheLearningDev](https://bhavaniravi.gumroad.com/l/LaFSj)
+> This project was built as a part ot [PythonToProject Bootcamp](https://bhavaniravi.gumroad.com/l/LaFSj)
 
 ## Feature list
 
