@@ -25,8 +25,7 @@ class User(db.Model):
 # Using the above sample write the DB models here
 
 
-
 # create all tables and initialize app
 
-db.create_all()
-db.init_app(app)
+with app.app_context():
+    db.create_all()
